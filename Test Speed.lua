@@ -111,5 +111,5 @@ for i=1, #str do
     end)
    
     
-    wait(delay)
+    wait()
 end
