@@ -9,5 +9,5 @@ return {
 ["JxcExploiETs"] = true,
 ["pinnedstraw"] = true,
 ["jshojshs"] = true,
-["robloxguestboy555"] = true -- put "," in end if you want to make another one execpt the last one
+["Abitalent34525"] = true -- put "," in end if you want to make another one execpt the last one
 }
